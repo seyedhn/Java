@@ -1,1 +1,1 @@
-This repository is a collection of problem-solving codes written in Java.
+This repository is a collection of Java codes, from simple array and recursion problems to riddles, classes and interactive games.
